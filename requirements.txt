@@ -1,0 +1,15 @@
+django==1.10.7
+markdown==2.6.7
+django-cors-headers==1.3.1
+django-cors-middleware==1.3.1
+django-oauth-toolkit==0.12.0
+django-oauth2-provider==0.2.6.1
+djangorestframework==3.5.3
+oauthlib==1.0.3
+shortuuid==0.5.0
+six==1.10.0
+pyodbc==3.1.1
+git+https://bitbucket.org/Manfre/django-mssql.git@d44721ba17acf95da89f06bd7270dabc1cd33deb#egg=django-mssql
+git+https://github.com/denisenkom/django-sqlserver.git@6cd87d363526631cbbaaa56906c1976a664c6f40#egg=django-sqlserver
+#pywin32-221.win32-py2.7
+django-filter==0.15.3

@@ -1,0 +1,6 @@
+*.pyc
+assets/*
+.idea
+.idea/*
+.idea/workspace.xml
+env
